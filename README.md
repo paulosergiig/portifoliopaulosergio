@@ -24,6 +24,8 @@ O e-mail e os WhatsApps foram fornecidos pelo usuário. Os contatos diretos de P
 
 ## Hospedagem e verificação
 
-A pasta dist/ contém os arquivos publicáveis. O projeto Sites existente é identificado em .openai/hosting.json; preserve sua audiência ao publicar alterações. Atualmente o acesso exige autenticação do proprietário.
+A pasta dist/ contém os arquivos publicáveis. Para hospedar no Cloudflare Pages a partir do GitHub, siga [o guia passo a passo](PUBLICAR-CLOUDFLARE.md). Use main como branch, None como framework, exit 0 como comando de build e dist como pasta de saída.
+
+A publicação anterior no Sites é identificada em .openai/hosting.json e tem acesso privado. O Cloudflare Pages cria uma publicação independente, com seu próprio endereço .pages.dev.
 
 Execute npm run check para verificar projetos, imagens, contatos, âncoras e sintaxe.
