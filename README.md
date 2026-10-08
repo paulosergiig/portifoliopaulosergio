@@ -1,25 +1,29 @@
 # Portfólio · Paulo Sérgio
 
-Site em português com HTML, CSS e JavaScript, sem instalar dependências. Os arquivos da página estão em dist/.
+Site em português voltado a clientes, com HTML, CSS e JavaScript. A identidade usa a logo original de Paulo Sérgio, preto, azul, ciano e roxo. Os botões de projetos abrem apresentações com galerias, funções e benefícios. Gabriel é o contato principal para vendas e orçamentos: (21) 9 9604-9034.
 
 ## Abrir e editar
 
-Abra dist/index.html no navegador ou execute npm start e acesse http://127.0.0.1:4173.
+Execute npm start e acesse http://127.0.0.1:4173. Não é necessário instalar dependências.
 
-- dist/index.html: apresentação, sobre, tecnologias e contatos.
-- dist/projects.js: títulos, descrições, tecnologias e links dos 13 projetos.
-- dist/styles.css: identidade visual e adaptação a celulares.
-- dist/app.js: filtros, menu e detalhes.
-- dist/assets/: imagens e favicon.
+- dist/index.html: apresentação, soluções, sobre e contatos.
+- dist/projects.js: descrições comerciais, funções e telas dos 13 projetos.
+- dist/styles.css: identidade visual, galerias e adaptação a celulares.
+- dist/app.js: filtros, menu, apresentações e ampliação de imagens.
+- dist/assets/: logo original e capturas das interfaces.
 
-Oito projetos foram verificados nos repositórios públicos em 07/10/2026. Cinco links retornaram HTTP 404 e estão marcados como “Detalhes em breve”; confirme a URL ou disponibilize informações para ampliar as descrições. As categorias desses itens são provisórias, inferidas pelos nomes.
+## Origem das prévias
 
-Os painéis de manutenção e EletroSilva são ilustrações identificadas na página. A imagem de Desafio Freedom e a captura de Site Helder vêm dos próprios repositórios. Site Helder está apresentado como em desenvolvimento, conforme seu README.
+Nove projetos têm apresentações visuais. O conteúdo de oito foi consultado nos repositórios públicos em 07/10/2026. Papel Marchê foi consultado em uma cópia local cujo remoto corresponde ao repositório informado. Suas telas foram renderizadas a partir dos templates e estilos dos projetos, sem executar operações nos sistemas. Registros e indicadores são fictícios; séries de gráficos são ilustrativas. As imagens de Desafio Freedom e Site Helder são telas dos próprios projetos. Site Helder é apresentado como em desenvolvimento, conforme seu README.
 
-E-mail e WhatsApp foram fornecidos por Paulo Sérgio. Gabriel, no WhatsApp (21) 9 9604-9034, é o contato principal para vendas, orçamentos e contratação. Os contatos diretos de Paulo Sérgio permanecem disponíveis. O contato usa links diretos e não armazena dados de visitantes.
+Não foram utilizados bancos de dados, credenciais ou cadastros reais. As capturas são apresentações estáticas, não aplicações de produção. Para atualizar uma galeria, adicione as imagens em dist/assets/previews/ e descreva cada tela no campo screens de dist/projects.js.
 
-## Hospedagem
+New Painel Elétrico, Messenger Freedom, SST Freedom e Sinóptico de vulcanização continuam com apresentação em preparação: os repositórios informados retornaram 404, inclusive pelo conector do GitHub. Não há telas confirmadas desses quatro projetos. As categorias são provisórias, inferidas pelos nomes.
 
-A pasta dist/ pode ser publicada no GitHub Pages, Cloudflare Pages ou outra hospedagem estática. A publicação no Sites começa privada e exige autenticação do proprietário. Compartilhar publicamente exige alterar o acesso.
+O e-mail e os WhatsApps foram fornecidos pelo usuário. Os contatos diretos de Paulo Sérgio permanecem disponíveis. Os links de contato não armazenam dados de visitantes.
 
-Execute npm run check para verificar arquivos, projetos e contatos.
+## Hospedagem e verificação
+
+A pasta dist/ contém os arquivos publicáveis. O projeto Sites existente é identificado em .openai/hosting.json; preserve sua audiência ao publicar alterações. Atualmente o acesso exige autenticação do proprietário.
+
+Execute npm run check para verificar projetos, imagens, contatos, âncoras e sintaxe.
