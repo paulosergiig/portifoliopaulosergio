@@ -16,7 +16,7 @@ Oito projetos foram verificados nos repositórios públicos em 07/10/2026. Cinco
 
 Os painéis de manutenção e EletroSilva são ilustrações identificadas na página. A imagem de Desafio Freedom e a captura de Site Helder vêm dos próprios repositórios. Site Helder está apresentado como em desenvolvimento, conforme seu README.
 
-E-mail e WhatsApp foram fornecidos por Paulo Sérgio. O contato usa links diretos e não armazena dados de visitantes.
+E-mail e WhatsApp foram fornecidos por Paulo Sérgio. Gabriel, no WhatsApp (21) 9 9604-9034, é o contato principal para vendas, orçamentos e contratação. Os contatos diretos de Paulo Sérgio permanecem disponíveis. O contato usa links diretos e não armazena dados de visitantes.
 
 ## Hospedagem
 
