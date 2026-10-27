@@ -1,6 +1,6 @@
-# Portfólio · Paulo Sérgio
+# SISTCOD · Soluções em Tecnologia
 
-Site em português voltado a clientes, com HTML, CSS e JavaScript. A identidade usa a logo original de Paulo Sérgio, preto, azul, ciano e roxo. Os botões de projetos abrem apresentações com galerias, funções e benefícios. Gabriel é o contato principal para vendas e orçamentos: (21) 9 9604-9034.
+Site em português voltado a clientes, com HTML, CSS e JavaScript. A identidade usa a logo original da SISTCOD, preto, azul e ciano. Os botões de projetos abrem apresentações com galerias, funções e benefícios. Vendas e orçamentos: Gabriel, (21) 9 9604-9034, e WhatsApp SISTCOD, +55 (83) 8697-8042. Instagram: https://www.instagram.com/sistcode_/.
 
 ## Abrir e editar
 
